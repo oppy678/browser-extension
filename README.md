@@ -1,3 +1,3 @@
 # Scrollizy Extension
 
-![Screenshoot](https://raw.githubusercontent.com/Scrollizy/browser-extension/master/design/screenshot.png)
+!(https://raw.githubusercontent.com/Scrollizy/browser-extension/master/design/thumb600.png)
