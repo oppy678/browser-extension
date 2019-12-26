@@ -1,7 +1,7 @@
 {
   "name": "__MSG_l10nName__",
   "short_name": "Scrollizy",
-  "version": "1.5.3",
+  "version": "1.5.5",
   "manifest_version": 2,
   "description": "__MSG_l10nDescription__",
   "homepage_url": "https://scrollizy.github.io",
